@@ -1,30 +1,23 @@
+<p align="center"><font size="6"><b>Software Requirements Specifications</b></font><br>
+"Alikasi Pemesanan Geprek Alhamdulillah Berbasis Mobil"</p>
 
-<b>
-<div class="container" style="font-family: times new roman">
-	<div class="header" style="text-align: center">
-		<font size="6">APLIKASI PEMESANAN GEPREK ALHAMDULILLAH <br> 
-			BERBASIS MOBILE <br> </font>
-		<font size="6">PROYEK 2 </font><br>
-	</b>
-	</div>
-	<div class="content" style="text-align: center">
-		 <img src="Logo/polindra.png" width="400" height="400">
-		 <br>
-		    <font size="4"> Disusun Oleh : <br></font>
-		    <b>
-		    <font size="5"> Kukuh Ajie Prayoga ( 1703066 ) <br></font>
-			<font size="5">Muhammad Naufal Hariz (1703080 ) <br></font>
-			<font size="5">Soni Dwi Susanto ( 1703083 ) <br></font></font>
-	</div>
-	<br>
-	<div class="footer" style="text-align: center" >
-		 <font size="6">D3 TEKNIK INFORMATIKA <br></font>
-		 <font size="6">POLITEKNIK NEGERI INDRAMAYU<br></font>
-		 <font size="6">2019 </font>
-</b>
-	</div>
-</div>
+<p align="center"><img src="gambar/polindra.png" width="250" height="250"></p>
+
 <br>
+
+<p align="center">
+    <b><font size="4">Kelompok 7:</font></b><br>
+    1. Kukuh Ajie Prayoga (1703066) <br>
+    2. Muhammad Naufal Hariz (1703080)<br>
+    3. Soni Dwi Susanto (1703083)
+</p>
+<center><font size="3"><p align="center">Kelas D3TI2C</p></font></center>
+
+<br>
+<br>
+<p align="center"><b><font size="5">D3 TEKNIK INFORMATIKA</font></b><br>
+<b><font size="3">POLITEKNIK NEGERI INDRAMAYU</font></b><br>
+<b><font size="3">2019</font></b></p>
 <br>
 
 <ol>
@@ -33,7 +26,7 @@
 	</b>
 		<ol>
 			 1.1 Gambaran Proyek<br>
-			 <ol> Program Aplikasi Pemesanan Geprek Alhamdulillah merupakan salah satu jenis usaha dibidang kuliner yang banyak dicari oleh penikmat makanan. Beberapa permasalahan yang ada di warung ini adalah pemesanan makanan yang manual dan tidak bisa melihat menu makanan. Tujuan dari proyek ini, yaitu menghasilkan aplikasi pemesanan makan secara online. Selain itu pada aplikasi ini ditambahkan fitur informasi mengenai detail menu makanan, dimana customer bisa membeli geprek  secara online tanpa harus datang ke warungnya langsung. <br></ol>
+			 <ol> Program Aplikasi Toko sparepart dan aksesoris handphone (Toko Pandawa Solution) merupakan salah satu jenis usaha dibidang elektronik yang banyak dicari oleh pengguna handphone. Beberapa permasalahan yang ada di toko ini adalah pendataan barang yang masih manual hanya menggunakan excel. Sehingga untuk menyesuaikan barang antar toko cabang membutuhkan waktu. Tujuan dari proyek ini, yaitu menghasilkan aplikasi pendataan barang secara online. Selain itu pada aplikasi ini ditambahkan fitur jual online dan transaksi, dimana customer bisa membeli aksesoris atau spare part handphone secara online tanpa harus datang ke tokonya langsung. <br></ol>
 			 1.2 Dokumen-dokumen<br>
 			  <ol> Saat mengerjakan projek ini, pencatatan kegiatan yang telah dilakukan ditulis didalam log book kelompok, anggota yang telah mengerjakan tugas sesuai proyek kegiatannya dicatat dalam log book, selain log book dokumen yang berkaitan dengan proyek ini meliputi requirtments, penjadwalan, pembagian tugas, dan referensi-referensi yang berkaitan dengan pembuatan projek kami.   <br></ol>
 			 1.3 Evolusi SPMP<br>
@@ -131,9 +124,12 @@
 		<ol>
 			4.1 Moteda, tool, dan tekniks<br>
 				<ol>
-					Metoda yang digunakan untuk pembuatan aplikasi ini adalah dengan mengamati kebutuhan, mendesain, implementasi, integrase, dan uji coba.
-					Tools yang digunakan dalam pembuatan aplikasi ini antara lain : API, Sublime Text 3, Android Studio, Browser.
-					Teknik yang digunakan untuk membuat aplikasi ini adalah dengan menganalisis kebutuhan, kemudian melakukan implementasi terhadap hasil analisis tersebut, dan melakukan uji coba untuk memeriksa kelayakan aplikasi<br>
+					Metoda yang kami gunakan yaitu dengan cara menginputkan data yang digunakan 
+					sebagai indikator untuk menentukan nilai yang diharapkan. Kemungkinan Bahasa yang 
+					kami gunakan adalah Bahasa pemograman PHP, Tools yang digunakan adalah Sublime 
+					text, database Mysql, Laravel , Mysql Connector Database untuk menghubungkan 
+					databse dengan Program yang kami buat. Teknik yang digunakan adalah pemrograman 
+					berbasis objek.  <br>
 				</ol>
 			4.2 Dokumentasi perangkat lunak<br>
 				<ol> 
@@ -179,16 +175,17 @@
 				Untuk pembuatan aplikasi ini akan dikerjakan oleh 4 (Empat) orang, dapat dilihat pada data berikut ini.<br>
 				5.3.1 Kebutuhan Sumber Daya Manusia<br>
 					<ol>
-					1. Soni Dwi Susanto&nbsp;&nbsp;Project Manager<br>
-					2. Kukuh Ajie Prayoga&nbsp;&nbsp;Sistem Analisis<br>
-					3. Muhammad Naufal Hariz&nbsp;&nbsp;Database & Programer<br>
+					1. Syahrul Diyono&nbsp;&nbsp;Project Manager<br>
+					2. Muhammad Nopriansyah&nbsp;&nbsp;Programmer<br>
+					3. Ninda Auliya&nbsp;&nbsp;Databaser<br>
+					4. Umi Chabibah&nbsp;&nbsp;Sistem Analis<br>
 					</ol>
 				5.3.2 Kebutuhan Sumber Daya Software<br>
 					<ol>
 				 	Sistem Operasi&nbsp;&nbsp;: Windows 8.1<br> 
-					Bahasa Pemrograman&nbsp;&nbsp;: Java,Mobile<br> 
-					Software Pengolah&nbsp;&nbsp;: Android Studio<br> 
-					Database Engine&nbsp;&nbsp;: API<br> 
+					Bahasa Pemrograman&nbsp;&nbsp;: PHP<br> 
+					Software Pengolah&nbsp;&nbsp;: Sublime Text<br> 
+					Database Engine&nbsp;&nbsp;: Xampp<br> 
 					</ol>
 			 	5.3.3 Kebutuhan Sumber Daya Hardware <br>  
 			 		<ol>
@@ -203,13 +200,13 @@
 					5.4.1 Estimasi Biaya Software<br>
 					<ol>
 						Windows 7&nbsp;: Rp. 1.100.000<br>
-						API&nbsp;: Rp. 500.000<br>
+						Xampp&nbsp;: Rp. 500.000<br>
 					</ol>	
 					5.4.2 Estimasi Biaya Hardware<br>
 					<ol>
-						Laptop		: Rp. 10.000.000<br>
-					 	Hardisk 	: Rp. 1.000.000<br>
-					 	Mouse		: Rp. 50.000<br>
+						Laptop		: Rp. 7.000.000
+					 	Hardisk 	: Rp. 500.000
+					 	Mouse		: Rp. 50.000
 					</ol> 	
 			 	</ol>
 			5.5 Jadwal<br>
