@@ -208,9 +208,13 @@
 			5.5 Jadwal<br>
 			<ol>
 				Untuk menyelesaikan Aplikasi Simulasi Manajemen Proyek Perangkat Lunak ini diperlukan waktu kurang lebih 5 bulan. Dimana rincian jadwal kerja pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut:<br>
-				<center><img src="gambar/jadwal.png" width="350" height="350"></center>
 			</ol>
 		</ol>
-	</ol>
-
+<html>
+<head>
+</head>
+<body>
+    <img src="Gambar/Jadwal.png" height="300px" width="500px;"/>
+</body>
+</html>
  
