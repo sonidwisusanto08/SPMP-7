@@ -207,9 +207,9 @@
 					</ol>	
 					5.4.2 Estimasi Biaya Hardware<br>
 					<ol>
-						Laptop		: Rp. 10.000.000
-					 	Hardisk 	: Rp. 1.000.000
-					 	Mouse		: Rp. 50.000
+						Laptop		: Rp. 10.000.000<br>
+					 	Hardisk 	: Rp. 1.000.000<br>
+					 	Mouse		: Rp. 50.000<br>
 					</ol> 	
 			 	</ol>
 			5.5 Jadwal<br>
