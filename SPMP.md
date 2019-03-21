@@ -1,7 +1,7 @@
 <p align="center"><font size="6"><b>Software Requirements Specifications</b></font><br>
 "Alikasi Pemesanan Geprek Alhamdulillah Berbasis Mobil"</p>
 
-<p align="center"><img src="logo/polindra.png" width="250" height="250"></p>
+<p align="center"><img src="Logo/polindra.png" width="250" height="250"></p>
 
 <br>
 
