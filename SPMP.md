@@ -73,3 +73,63 @@
 		Analis & Database Administrator = Muhammad Naufal hariz
 	</p>
 </li>
+4. Proses teknis<br>
+Yang kelompok kami kerjakan mengunakan teknologi berbasis mobile.<br>
+4.1 Metoda, tools, dan teknik<br>
+4.1.1.Metoda <br>
+Metoda yang digunakan untuk pembuatan aplikasi ini adalah dengan mengamati kebutuhan, mendesain, implementasi,
+integrase, dan uji coba.<br>
+4.1.2.Tools <br>
+Tools yang digunakan dalam pembuatan aplikasi ini antara lain : XAMPP, Sublime Text 3, Android Studio, Browser.<br>
+4.1.3.Teknik <br>
+Teknik yang digunakan untuk membuat aplikasi ini adalah dengan menganalisis kebutuhan, kemudian melakukan implementasi terhadap hasil analisis tersebut, dan melakukan uji coba untuk memeriksa kelayakan aplikasi.<br>
+4.2. Dokumentasi perangkat lunak<br>
+Untuk menjamin kualitas aplikasi yang dibuat kami menggunakan cara:<br>
+1.Melakukan analisa kebutuhan<br>
+2.Mengimplementasikan kedalam aplikasi<br>
+3.Melakukan uji coba ketika ada perubahan<br>
+
+
+5. Paket pekerjaan, Jadwal, dan Budget<br>
+5.1 Paket pekerjaan<br>
+5.1.1. Project Manager		: Kukuh Ajie Prayoga.
+•	Mengawasi seluruh proses pengerjaan proyek dan memastikan setiap tahapan pembuatan proyek berjalan sesuai target.
+•	Mengawasi seluruh personil tim dalam pengerjaan proyek.
+5.1.2. Front End dan Back End	: Muhammad Naufal Hariz  dan Soni Dwi Susanto.
+•	Membuat Mockup.
+•	Membuat Desain Aplikasi.
+•	Membuat program untuk fitur- fitur yang ada pada aplikasi agar berfungsi.
+5.1.3. Dokumentasi			: Muhammad Naufal Hariz  dan Soni Dwi Susanto.
+•	Membuat dokumen- dokumen yang dibutuhkan dalam proses pembuatan aplikasi.
+5.2 Ketergantungan/keterkaitan<br>
+Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya :
+project manager = Tugas manager adalah untuk mengawasi anggota-anggotanya jika saat mengerjakan projek anggotanya lalai dengan tugasnya ketua  tersebut berhak untuk menegur anggotanya, mengawasi seluruh proses pengerjaan proyek dan memastikan setiap tahapan pembuatan proyek berjalan sesuai target.
+Programmer dan tester = Salah satu tugas. Tester yaitu untuk mengecek jika saat programmer salah dalam melakukan pengkodingan  tersebut agar bisa langsung di perbaiki.
+Analisis dan database = Yang bertugas sebagai analisis yaitu memberi suatu gambaran projek dan pengkodian pada programer. <br>
+
+5.3 Kebutuhan sumber daya<br>
+5.3.1 Kebutuhan Sumber Daya Manusia <br>
+5.3.1.1 Kukuh Ajie Prayoga = Project Manager, programer<br>
+5.3.1.2 Soni Dwi Susanto = Programer, tester<br>
+5.3.1.3 Muhammad Naufal Hariz = Analisis, data base<br>
+5.3.2 Kebutuhan Sumber Daya Software<br>
+5.3.2.1 Sistem Operasi = windows 10<br>
+5.3.2.2 Bahasa Pemrograman = Android/java<br>
+5.3.2.3 Software Pengolah = Android Studio/sublime/netbeans<br>
+5.3.2.4 Database Enginge = Xampp<br>
+5.3.3 Kebutuhan Sumber Daya Hardware<br>
+5.3.3.1 Processor = Minimal core i3<br>
+5.3.3.2 Memory(RAM) = Minimal 2 GB<br>
+5.3.3.3 Penyimpanan Hardisk = 4 GB free space<br>
+5.3.3.4 Layar (Monitor) = Resolusi 1240 x 768 colors<br>
+5.3.3.5 Keyboard = Compatible with Windows<br>
+5.3.3.6 Mouse = Compatible with Window<br>
+5.4 Alokasi budget dan sumber daya<br>
+Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami.<br>
+5.4.1 Estimasi Biaya Hardware Rp. ,- <br>
+5.4.1.1 Komputer = Minimal Core i3 or Higher Rp. ,- <br>
+Minimal 2 GB or Higher 4 GB free space Layar (monitor) Resolusi 1240 x 768 colors Rp.,- <br>
+Keyboard Rp. ,- <br>
+Mouse Rp.,- <br>
+5.5 Jadwal<br>
+Untuk menyelesaikan Aplikasi Simulasi Manajemen Proyek Perangkat Lunak ini diperlukan waktu kurang lebih 4 bulan<br>
