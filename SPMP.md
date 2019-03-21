@@ -1,30 +1,23 @@
+<p align="center"><font size="6"><b>Software Porject Management Plan</b></font><br>
+"Alikasi Pemesanan Geprek Alhamdulillah Berbasis Mobil"</p>
 
-<b>
-<div class="container" style="font-family: times new roman">
-	<div class="header" style="text-align: center">
-		<font size="6">APLIKASI PEMESANAN GEPREK ALHAMDULILLAH <br> 
-			BERBASIS MOBILE <br> </font>
-		<font size="6">PROYEK 2 </font><br>
-	</b>
-	</div>
-	<div class="content" style="text-align: center">
-		 <img src="Logo/polindra.png" width="400" height="400">
-		 <br>
-		    <font size="4"> Disusun Oleh : <br></font>
-		    <b>
-		    <font size="5"> Kukuh Ajie Prayoga ( 1703066 ) <br></font>
-			<font size="5">Muhammad Naufal Hariz (1703080 ) <br></font>
-			<font size="5">Soni Dwi Susanto ( 1703083 ) <br></font></font>
-	</div>
-	<br>
-	<div class="footer" style="text-align: center" >
-		 <font size="6">D3 TEKNIK INFORMATIKA <br></font>
-		 <font size="6">POLITEKNIK NEGERI INDRAMAYU<br></font>
-		 <font size="6">2019 </font>
-</b>
-	</div>
-</div>
+<p align="center"><img src="Logo/polindra.png" width="250" height="250"></p>
+
 <br>
+
+<p align="center">
+    <b><font size="4">Kelompok 7:</font></b><br>
+    1. Kukuh Ajie Prayoga (1703066) <br>
+    2. Muhammad Naufal Hariz (1703080)<br>
+    3. Soni Dwi Susanto (1703083)
+</p>
+<center><font size="3"><p align="center">Kelas D3TI2C</p></font></center>
+
+<br>
+<br>
+<p align="center"><b><font size="5">D3 TEKNIK INFORMATIKA</font></b><br>
+<b><font size="3">POLITEKNIK NEGERI INDRAMAYU</font></b><br>
+<b><font size="3">2019</font></b></p>
 <br>
 
 <ol>
